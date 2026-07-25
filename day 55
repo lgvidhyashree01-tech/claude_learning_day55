@@ -1,0 +1,41 @@
+*What I learnt from this task:*
+1. Shipping fast only works if you don't break what shipped yesterday
+2. Continued capstone conversation from Day 54 in the same thread
+3. Had Claude read Day 5 section of the 10-Day Blueprint before starting
+4. Had Claude review all Day 1-4 work to confirm no regressions today
+5. Pasted Continue Core Feature Development prompt
+6. Confirmed we’ll use only free-tier tools and APIs for today
+7. Worked through Day 5 milestones, adding files exactly where Claude specified
+8. Ran every command Claude gave and followed manual steps for external config
+9. Let Claude handle small steps. Stepped in only for milestones, UI changes, and deployments
+10. Hit 1 bug with API rate limits. Debugged fully with Claude before moving on
+11. Repeated until every Day 5 feature in the Blueprint was implemented and verified
+12. Did full regression test: all Day 1-5 features still work
+13. Refactored 2 duplicated functions Claude flagged for cleaner code
+14. Updated documentation: README, API.md, and DAY5-SUMMARY.md
+15. Committed with meaningful message: `feat: Day5 - [core feature names] + regression tests`
+16. Pushed to GitHub
+17. Deployed to [hosting platform] for testing and verified live version
+18. Got Claude’s summary: Day 5 complete. Day 6 = AI integration + polish
+19. Took screenshots of new features and major UI changes
+20. Learned: regression testing daily saves 3 days of panic later
+
+*Tools used:*
+1. Claude AI
+2. Continue Core Feature Development prompt
+3. Same capstone thread from Day 51-54
+4. Solution video
+5. Watched for Day 5 milestone walkthrough
+6. Git + GitHub
+7. Project repo for code + docs
+8. AB Talks challenge repo for Day55 folder
+9. Free-tier APIs + SDKs
+10. Used per Blueprint constraints
+11. Framework + Dev Server
+12. For running and testing milestones
+13. Hosting Platform
+14. Vercel/Netlify/Railway for live testing
+15. Browser + DevTools
+16. Regression testing + screenshots
+17. Screenshot tool
+18. Capture new features + UI + live deploy
